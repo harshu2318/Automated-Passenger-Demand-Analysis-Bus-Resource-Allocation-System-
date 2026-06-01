@@ -1,4 +1,4 @@
-# Automated-Passenger-Demand-Analysis-Bus-Resource-Allocation-System-
+<img width="1463" height="706" alt="image" src="https://github.com/user-attachments/assets/0c43b3d8-2abf-4812-8e03-51f568e05f48" /># Automated-Passenger-Demand-Analysis-Bus-Resource-Allocation-System-
 
 “One of my major projects is BusPulse, which is a smart transport management system designed to reduce passenger waiting time by dynamically allocating buses based on crowd density.
 
