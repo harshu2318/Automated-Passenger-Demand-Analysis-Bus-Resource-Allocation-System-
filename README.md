@@ -1,4 +1,4 @@
-<img width="1463" height="706" alt="image" src="https://github.com/user-attachments/assets/0c43b3d8-2abf-4812-8e03-51f568e05f48" /># Automated-Passenger-Demand-Analysis-Bus-Resource-Allocation-System-
+ Automated-Passenger-Demand-Analysis-Bus-Resource-Allocation-System-
 
 “One of my major projects is BusPulse, which is a smart transport management system designed to reduce passenger waiting time by dynamically allocating buses based on crowd density.
 
@@ -11,3 +11,4 @@ We also integrated GPS tracking using WhatsApp API for monitoring bus and driver
 The complete system was built using the MERN stack along with YOLO for passenger detection and MongoDB for storing data.
 
 Through this project, I learned about real-time monitoring systems, computer vision using YOLO, API integration, dashboard development, and full-stack application development.”
+<img width="1463" height="706" alt="image" src="https://github.com/user-attachments/assets/0c43b3d8-2abf-4812-8e03-51f568e05f48" />#
