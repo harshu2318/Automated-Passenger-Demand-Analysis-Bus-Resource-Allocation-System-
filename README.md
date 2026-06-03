@@ -12,3 +12,13 @@ The complete system was built using the MERN stack along with YOLO for passenger
 
 Through this project, I learned about real-time monitoring systems, computer vision using YOLO, API integration, dashboard development, and full-stack application development.”
 <img width="1463" height="706" alt="image" src="https://github.com/user-attachments/assets/0c43b3d8-2abf-4812-8e03-51f568e05f48" />#
+<img width="1436" height="710" alt="image" src="https://github.com/user-attachments/assets/9a777499-247d-40ce-9593-d79384eb5224" />
+<img width="1453" height="701" alt="image" src="https://github.com/user-attachments/assets/0ce39416-a57d-4065-8b45-84772b1e8c56" />
+<img width="1097" height="696" alt="image" src="https://github.com/user-attachments/assets/147f9230-ac92-49bb-afe9-09bff24e53bd" />
+<img width="1458" height="691" alt="image" src="https://github.com/user-attachments/assets/5dcd4d00-eb3a-4cbd-b502-39afc93075f2" />
+<img width="1470" height="704" alt="image" src="https://github.com/user-attachments/assets/7f152f11-a4f6-44f9-b9c4-5c4ad46433da" />
+
+
+
+
+
