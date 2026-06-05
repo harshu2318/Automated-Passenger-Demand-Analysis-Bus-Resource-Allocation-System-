@@ -17,6 +17,8 @@ Through this project, I learned about real-time monitoring systems, computer vis
 <img width="1097" height="696" alt="image" src="https://github.com/user-attachments/assets/147f9230-ac92-49bb-afe9-09bff24e53bd" />
 <img width="1458" height="691" alt="image" src="https://github.com/user-attachments/assets/5dcd4d00-eb3a-4cbd-b502-39afc93075f2" />
 <img width="1470" height="704" alt="image" src="https://github.com/user-attachments/assets/7f152f11-a4f6-44f9-b9c4-5c4ad46433da" />
+<img width="1099" height="621" alt="image" src="https://github.com/user-attachments/assets/4dbb467c-07bd-48ad-bfe8-d291c17c9045" />
+
 
 
 
