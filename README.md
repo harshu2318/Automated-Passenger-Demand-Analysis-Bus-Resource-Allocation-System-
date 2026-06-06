@@ -1,4 +1,4 @@
-<h3> Automated-Passenger-Demand-Analysis-Bus-Resource-Allocation-System-</h3>
+<u><h3> Automated-Passenger-Demand-Analysis-Bus-Resource-Allocation-System-</h3></u>
 
 “One of my major projects is BusPulse, which is a smart transport management system designed to reduce passenger waiting time by dynamically allocating buses based on crowd density.
 
